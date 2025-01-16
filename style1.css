@@ -1,0 +1,22 @@
+body {
+  background: url(fd40a4b8b151c4e432106576187d03c9.gif);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.head {
+  padding-top: 7rem;
+}
+.nama {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  background: transparent;
+  backdrop-filter: blur(2px);
+  margin: auto;
+  font-size: 45px;
+}
+.lead {
+  font-size: 40px;
+}
+.card {
+  margin-top: 30px;
+}
